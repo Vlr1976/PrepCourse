@@ -1,1 +1,1 @@
-# PrepCourse
+Este es un proyecto de prueba como crear un repositorio y clonarlo desde Github hasta mi pc
